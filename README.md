@@ -4,10 +4,10 @@ NCERT Smart Viewer is a web application that allows users to view PDFs of chapte
 
 ## Screenshots
 Explanation with same student level (7) and textbook grade (7)
-![alt text](http://url/to/img.png)
+![screenshot1](376072243-69217c78-87ba-4494-89ca-0578fb80adac.png)
 
 Search response with student level (4) less than the textbook grade (7)
-![alt text](http://url/to/img.png)
+![screenshot2](376072328-9e2b2460-df82-403f-91f9-4c13389bc64b.png)
 
 ## Features
 
