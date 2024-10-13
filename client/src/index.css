@@ -1,0 +1,19 @@
+/* Set the basic styles for the HTML and body */
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    background-color: #f0f2f5;
+  }
+  
+  /* Ensure the root div occupies the full height */
+  #root {
+    height: 100%;
+  }
+  
+  /* Make sure all elements use the box-sizing: border-box model */
+  * {
+    box-sizing: border-box;
+  }
+  
